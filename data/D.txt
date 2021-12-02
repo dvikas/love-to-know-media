@@ -1,0 +1,4 @@
+5
+A.txt
+2
+invalid.txt
